@@ -1,7 +1,7 @@
 <img  src="https://media.giphy.com/media/RkHFJCWvv0WnUjPX98/giphy.gif" width="100" height="100"/>
 [ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Take+a+:coffee:+and+enjoy+(coding)&color=c3c3c3)](https://git.io/typing-svg)
 <p align=""> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=tuhin4ever&label=Profile%20views&color=0e75b6&style=flat" alt="tuhin4ever" /> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Tuhin</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Esrak Fahim</h1>
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhin4ever&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5)](https://git.io/streak-stats" alt="tuhin4ever" /></p>
 <h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
