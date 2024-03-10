@@ -19,7 +19,7 @@
 
 - 💬 Talk to me about React, Node, JavaScript, Freelancing Opportunities etc.
 
-- 📫 Reach me at **tuhin4ever19@gmail.com**
+- 📫 Reach me at **efahim0656@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1O9YVoKB8DALLmDUm-jX-4AUi2yc9e8CU/view?usp=sharing](https://drive.google.com/file/d/1O9YVoKB8DALLmDUm-jX-4AUi2yc9e8CU/view?usp=sharing)
 
